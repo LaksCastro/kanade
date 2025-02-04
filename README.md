@@ -6,16 +6,15 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/alexrintt/kanade/releases"><b>Download</b></a> •
-  <a href="https://alexrintt.github.io/kanade/user-guide/"><b>User Guide</b></a> •
-  <a href="https://donate.alexrintt.io"><b>Donate</b></a>
+  <a href="https://github.com/alexcmgit/kanade/releases"><b>Download</b></a> •
+  <a href="https://alexcmgit.github.io/kanade/user-guide/"><b>User Guide</b></a> •
 </p>
 
 <p align="center">
   <a href="https://apt.izzysoft.de/fdroid/index/apk/io.alexrintt.kanade">
     <img height="80" src="https://user-images.githubusercontent.com/51419598/202963424-371af9f5-e433-4f23-8cd0-537fe6fc013f.png">
   </a>
-  <a href="https://github.com/alexrintt/kanade/releases">
+  <a href="https://github.com/alexcmgit/kanade/releases">
     <img height="80" src="https://user-images.githubusercontent.com/51419598/202963419-6095ee98-88a5-486f-9c84-a0bd2d8c700e.png">
   </a>
 </p>
@@ -24,10 +23,10 @@
 
 ## Kanade Apk Extractor
 
-<a href="https://github.com/alexrintt/kanade/releases">
+<a href="https://github.com/alexcmgit/kanade/releases">
   <p>
-    <img src="https://img.shields.io/github/v/release/alexrintt/kanade?label=latest&style=flat-square">
-    <img src="https://img.shields.io/github/downloads/alexrintt/kanade/total?color=000t&style=flat-square">
+    <img src="https://img.shields.io/github/v/release/alexcmgit/kanade?label=latest&style=flat-square">
+    <img src="https://img.shields.io/github/downloads/alexcmgit/kanade/total?color=000t&style=flat-square">
   </p>
 </a>
 
@@ -103,13 +102,13 @@ There are several ways to contribute:
 - To report a bug, create a new issue with an screenshot or a small description of the bug.
 - To request a feature please add an issue to further discuss.
 
-If you wanna contribute in private, you can also ping me on my email [kanade@alexrintt.io](mailto://kanade@alexrintt.io) to discuss any of the points above. Thanks in advance.
+If you wanna contribute in private, you can also ping me on my email [kanade_gh@simpleapp.tools](mailto://kanade_gh@simpleapp.tools) to discuss any of the points above. Thanks in advance.
 
 ## Contributors
 
 - [Fantazzj](https://github.com/Fantazzj) added Italian language support.
 - [@WSTxda](https://linktr.ee/wstxda) made the v0.4.0 app icon and provided support in the v0.5.0 icon.
-- [IzzySoft](https://gitlab.com/IzzySoft) reported an issue with android version code [#13](https://github.com/alexrintt/kanade/issues/13) and added fastlane docs [#15](https://github.com/alexrintt/kanade/pull/15).
+- [IzzySoft](https://gitlab.com/IzzySoft) reported an issue with android version code [#13](https://github.com/alexcmgit/kanade/issues/13) and added fastlane docs [#15](https://github.com/alexcmgit/kanade/pull/15).
 
 Thanks to all contributors!
 
@@ -119,7 +118,7 @@ Thanks to all contributors!
 - All fonts in this repository are subject to copyright of it's respective owners.
 - All images in this repository are subject to copyright of it's respective owners.
 
-For content removal, please, ping me on my email [kanade@alexrintt.io](mailto:kanade@alexrintt.io).
+For content removal, please, ping me on my email [kanade_gh@simpleapp.tools](mailto:kanade_gh@simpleapp_tools).
 
 <br />
 
@@ -131,7 +130,7 @@ For content removal, please, ping me on my email [kanade@alexrintt.io](mailto:ka
 <p align="center">
   <sub>Copyright © 2021-present, Alex Rintt.</sub>
 </p>
-<p align="center">Kanade <a href="https://github.com/alexrintt/kanade/blob/master/LICENSE">is MIT licensed 💖</a></p>
+<p align="center">Kanade <a href="https://github.com/alexcmgit/kanade/blob/master/LICENSE">is MIT licensed 💖</a></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51419598/138740064-92e4c38a-e648-41b5-8432-da0962028f62.png" width="50" />
 </p>
