@@ -128,7 +128,7 @@ For content removal, please, ping me on my email [kanade_gh@simpleapp.tools](mai
   Open Source
 </h2>
 <p align="center">
-  <sub>Copyright © 2021-present, Alex Rintt.</sub>
+  <sub>Copyright © 2021-present, Alex Castro</sub>
 </p>
 <p align="center">Kanade <a href="https://github.com/alexcmgit/kanade/blob/master/LICENSE">is MIT licensed 💖</a></p>
 <p align="center">
